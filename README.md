@@ -10,7 +10,7 @@ Use Angular, services, and $http to create an iTunes web application
 
 
 ![alt text](https://github.com/DevMountain/itunes/blob/master/Preview.png?raw=true)
-
+ 
 The concepts this project will cover are:
 
 1. $http
